@@ -178,5 +178,4 @@ Slave queue ID: 0
 Активный интерфейс на обоих роутерах eth1. 
 Запустим пинги и выключим eth1 на inetRouter:
 
-![image 1] (https://github.com/IvanPrivalov/HW21/blob/master/bonding.png)
-
+![image 1](https://github.com/IvanPrivalov/HW21/blob/master/bonding.png)
